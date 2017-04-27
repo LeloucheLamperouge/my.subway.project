@@ -1,0 +1,27 @@
+2017-04-18T11:49:31,723 [INFO ] (SubwayMain.java:93) - message : 
+2017-04-18T11:56:05,624 [INFO ] (SubwayMain.java:93) - info message
+2017-04-18T11:56:05,629 [ERROR] (SubwayMain.java:94) - error mesage
+2017-04-18T14:10:26,714 [INFO ] (SubwayMain.java:93) - info message[Driver{driverId=3, driverExp=3, driverName='Altair'}]
+2017-04-18T14:10:26,777 [ERROR] (SubwayMain.java:94) - error mesage
+2017-04-19T13:55:13,677 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:13,678 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:13,676 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:13,676 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:13,677 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:13,677 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:13,678 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:13,677 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:13,676 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:13,677 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:13,676 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:40,680 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:40,679 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:40,679 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:40,678 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:40,679 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:40,678 [INFO ] (SubwayMain.java:88) - It's info message :Altair
+2017-04-19T13:55:40,678 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:40,678 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:40,681 [INFO ] (SubwayMain.java:88) - It's info message :Ezio
+2017-04-19T13:55:40,680 [INFO ] (SubwayMain.java:88) - It's info message :Shay
+2017-04-19T13:55:40,678 [INFO ] (SubwayMain.java:88) - It's info message :Shay
